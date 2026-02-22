@@ -27,5 +27,5 @@ A Machine Learning-powered web application that predicts whether a person falls 
 - Clean and interactive Streamlit UI
 - Real-time predictions
 
-🔗 GitHub Repository: 
+🔗 GitHub Repository: https://github.com/AniketChavan7347/Health_Risk_Prediction
 🔗 Live Demo: healthriskprediction-gu6legyzjj7jypvf8rytaa.streamlit.app
