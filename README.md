@@ -7,7 +7,25 @@
 - 💞️ Open to collaborating on ML-based applications and data-driven projects  
 - 📫 Reach me at: aniketchavan7347@gmail.com 
 - ⚡ Fun fact: I enjoy solving real-world problems using data and algorithms.
-<!---
-AniketChavan7347/AniketChavan7347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 
+## 📊 Featured Project
+
+### 🩺 Machine Learning Based Health Risk Predictor
+
+A Machine Learning-powered web application that predicts whether a person falls under **Low, Medium, or High health risk category** based on input health parameters.
+
+🚀 **Tech Stack**
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Streamlit
+- Joblib
+
+📌 **Key Features**
+- Supervised classification model
+- Probability-based risk prediction
+- Clean and interactive Streamlit UI
+- Real-time predictions
+
+🔗 GitHub Repository: 
+🔗 Live Demo: healthriskprediction-gu6legyzjj7jypvf8rytaa.streamlit.app
